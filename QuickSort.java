@@ -29,7 +29,7 @@ public class QuickSort {
                 array[j] = temp;
             }
         }
-        i++;
+                i++;
                 int temp = array[i];
                 array[i] = array[end];
                 array[end] = temp;
